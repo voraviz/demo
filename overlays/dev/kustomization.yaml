@@ -2,8 +2,9 @@
 commonLabels:
   environment: dev
 commonAnnotations:
-  description: This is Dev environment
+  description: This is dev environment
 bases:
 - ../../base
 patchesStrategicMerge:
-- todo.yaml
+- frontend.yaml
+- backend.yaml

@@ -1,4 +1,7 @@
 resources:
-- todo-db.yaml
-- todo.yaml
-- service-monitor.yaml
+- demo-rolebinding.yaml
+- backend.yaml
+- frontend.yaml
+- backend-service.yaml
+- frontend-service.yaml
+- route.yaml
