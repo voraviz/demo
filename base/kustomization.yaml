@@ -1,5 +1,4 @@
 resources:
-- demo-rolebinding.yaml
 - backend.yaml
 - frontend.yaml
 - backend-service.yaml
